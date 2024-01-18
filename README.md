@@ -1,5 +1,8 @@
 # GoT-StatusChanger
 
+Røv simpel changer.
+Tilføjer måske images og url hvis jeg lige orker en dag ;)
+
 Hvis scriptet ikke virker så download requirements.
 (pip install -r requirements.txt)
 
