@@ -1,0 +1,5 @@
+pip install discord
+pip install asyncio
+pip install os
+pip install ctypes
+pip install colorama
